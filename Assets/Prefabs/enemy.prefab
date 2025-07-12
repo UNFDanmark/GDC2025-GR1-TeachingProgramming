@@ -220,4 +220,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0cc65e76f5e54b4eaa2140e9b15b6e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sightlength: 100
+  sightlength: 5.27
