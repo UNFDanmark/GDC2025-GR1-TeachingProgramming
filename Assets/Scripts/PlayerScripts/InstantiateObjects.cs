@@ -15,7 +15,6 @@ public class InstantiateObjects : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F))
         {
             instObj = Instantiate(obj, transform.position + transform.forward * 1, new Quaternion());
-            instObj.AddComponent<Rigidbody>();
             instObj.GetComponent<Rigidbody>().linearVelocity = objVelX * transform.forward + objVelZ * transform.right + objVelY * transform.up;
         }
     }
