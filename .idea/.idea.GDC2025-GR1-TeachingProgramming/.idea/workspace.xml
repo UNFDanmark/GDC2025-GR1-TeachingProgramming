@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3448b906-f4c9-403f-900c-6a39218459ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts/CameraMovementScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts/CameraMovementScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts/InstantiateObjects.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts/InstantiateObjects.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts/movementscript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerScripts/movementscript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/coin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/coin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/coinspawn.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/coinspawn.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/enemyspawner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/enemyspawner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/kys.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/kys.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/coin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/coin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/coinspawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/coinspawn.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752313284627</updated>
-      <workItem from="1752313286138" duration="1222000" />
+      <workItem from="1752313286138" duration="2006000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,7 @@ public class coinspawn : MonoBehaviour
             spawnposition.x = spawnposition.x + Random.Range(-5, 5);
             spawnposition.z = spawnposition.z + Random.Range(-5, 5);
             spawnposition.y = spawnposition.y + Random.Range(0, 5);
-            Instantiate(coin, spawnposition, Quaternion.identity);
+            Instantiate(coin, spawnposition, coin.transform.rotation);
             currentSpawnTime = cooldown;
         }
     }
