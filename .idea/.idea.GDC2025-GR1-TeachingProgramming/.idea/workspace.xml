@@ -5,9 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3448b906-f4c9-403f-900c-6a39218459ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/movementscript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/movementscript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MainUnityProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MainUnityProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MainUnityProject/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MainUnityProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MainUnityProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Skeleton_Minion.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Skeleton_Minion.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/grass.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/pew.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/pew.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/rogue_texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/rogue_texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/skeleton_texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/skeleton_texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/grass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/grass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/grass.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/grass.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/enemy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/enemy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Programmering.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Programmering.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering/NavMesh-Plane 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering/NavMesh-Plane 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering/NavMesh-Plane.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Programmering/NavMesh-Plane.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering/NavMesh-Plane.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Programmering/NavMesh-Plane.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemyscripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemyscripts/AIeyes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemyscripts/AIeyes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemyscripts/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemyscripts/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/CameraMovementScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/CameraMovementScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/InstantiateObjects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/InstantiateObjects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/LookatMouse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/LookatMouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/movementscript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/movementscript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rogue.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rogue.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Skeleton_Minion.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Skeleton_Minion.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/coin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/coin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/coinspawn.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/coinspawn.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/enemyspawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/enemyspawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/kys.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/kys.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +91,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ec96bf438c444e598403ed31eec8eeb818c00/54/8d912509/AudioSource.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -102,7 +180,8 @@
       <updated>1752313284627</updated>
       <workItem from="1752313286138" duration="2384000" />
       <workItem from="1752390547963" duration="2585000" />
-      <workItem from="1752393351927" duration="1466000" />
+      <workItem from="1752393349230" duration="1998000" />
+      <workItem from="1752397531952" duration="1789000" />
     </task>
     <servers />
   </component>
