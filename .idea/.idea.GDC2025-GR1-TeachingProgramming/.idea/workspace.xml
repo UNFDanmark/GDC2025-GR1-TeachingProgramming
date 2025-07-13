@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3448b906-f4c9-403f-900c-6a39218459ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GDC2025-GR1-TeachingProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material 2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Programmering.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Programmering.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/InstantiateObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/InstantiateObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ContentGDC2025/Rogue.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/movementscript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/movementscript.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +102,7 @@
       <updated>1752313284627</updated>
       <workItem from="1752313286138" duration="2384000" />
       <workItem from="1752390547963" duration="2585000" />
+      <workItem from="1752393351927" duration="1466000" />
     </task>
     <servers />
   </component>

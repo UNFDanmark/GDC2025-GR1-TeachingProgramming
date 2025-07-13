@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class movementscript : MonoBehaviour
 {
@@ -7,21 +8,23 @@ public class movementscript : MonoBehaviour
     public float speed = 6, jumpforce = 270, jumpdelay = 0.1f;
     bool jumping;
     Rigidbody rb;
+    public InputAction moveAction;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        moveAction.Enable();
         rb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 movement = Vector3.forward * Input.GetAxisRaw("Vertical") + Vector3.right * Input.GetAxisRaw("Horizontal");
-        movement *= Time.deltaTime;
-        
-        
-        transform.position += movement * speed;
+        Vector2 moveInput = moveAction.ReadValue<Vector2>();
+        Vector3 newVelocity = rb.linearVelocity;
+        newVelocity.x = moveInput.x * speed;
+        newVelocity.z = moveInput.y * speed;
+        rb.linearVelocity = newVelocity;
         
         //jump
         if (Input.GetKey(KeyCode.Space) && !jumping)
