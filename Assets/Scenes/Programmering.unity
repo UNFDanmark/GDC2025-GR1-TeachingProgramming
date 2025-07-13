@@ -429,6 +429,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 9171170154517504874, guid: 35332d18e5ae63d42b1594fe95e03873, type: 3}
+      propertyPath: sightlength
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -17,7 +17,7 @@ public class movementscript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 movement = transform.forward * Input.GetAxisRaw("Vertical") + transform.right * Input.GetAxisRaw("Horizontal");
+        Vector3 movement = Vector3.forward * Input.GetAxisRaw("Vertical") + Vector3.right * Input.GetAxisRaw("Horizontal");
         movement *= Time.deltaTime;
         
         
